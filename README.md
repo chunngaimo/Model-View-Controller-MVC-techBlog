@@ -55,7 +55,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 ![TechBlog](/public/tech-blog5.jpg)
 ![TechBlog](/public/tech-blog6.jpg)
 
-
 ---
 
 ## Questions
@@ -68,3 +67,5 @@ and Feel free to ask any questions and contact me at wjy16888888@gmail.com.
 ## Links
 
 Link to repository on [GitHub](https://github.com/chunngaimo/Model-View-Controller-MVC-techBlog)
+
+Link to deployed application on [Heroku](https://frozen-dusk-06351.herokuapp.com/)
