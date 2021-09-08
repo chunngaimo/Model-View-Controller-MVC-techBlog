@@ -26,6 +26,8 @@ A CMS-style blog site that can publish articles, blog posts, and my thoughts and
 
 - JavaScript
 
+- JAWSDB
+
 - Model-View-Controller
 
 - MySQL
