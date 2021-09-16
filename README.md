@@ -68,4 +68,4 @@ and Feel free to ask any questions and contact me at wjy16888888@gmail.com.
 
 Link to repository on [GitHub](https://github.com/chunngaimo/Model-View-Controller-MVC-techBlog)
 
-Link to deployed application on [Heroku](https://frozen-dusk-06351.herokuapp.com/)
+Link to deployed application on [Heroku](https://tech-blog-nemo.herokuapp.com/)
